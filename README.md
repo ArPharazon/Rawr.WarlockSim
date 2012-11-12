@@ -1,8 +1,10 @@
 Rawr.WarlockSim
 ===============
 
-A plugin for Rawr which attempts to simulate the warlock combat model in world of warcraft
+This project models complex gameplay mechanics via discrete event simulation and a dynamic priority event queue system.
 
 
-NOTE: This code is for an older version of Rawr - it is NOT compatible with Rawr4 / Rawr5.
+It was built as a plugin for [Rawr](http://rawr.codeplex.com/), a theorycrafting tool for the popular MMO [World Of Warcraft](http://us.battle.net/wow/en/).
+
+NOTE: It is not currently compatible with the latest version of Rawr. 
 
